@@ -68,6 +68,9 @@ Esta clase proporciona una interfaz web para configurar el pedal. Los usuarios p
 
 - **LED 2 parpadea una sola vez al cambiar de modo**: Al cambiar entre modos, el LED 2 debería parpadear repetidamente, pero actualmente solo parpadea una vez. Este comportamiento inesperado aún no ha sido resuelto.
 
+## Impresión 3d
+  - Pueden ver el proyecto en thingiverse: https://www.thingiverse.com/thing:6778400
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Siéntete libre de hacer un fork de este proyecto, enviar un pull request o abrir issues para cualquier mejora o problema que encuentres.
