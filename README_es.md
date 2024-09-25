@@ -58,6 +58,15 @@ Esta clase proporciona una interfaz web para configurar el pedal. Los usuarios p
 - Tablet con capacidad Bluetooth
 - Conexiones eléctricas básicas
 
+## To Do
+
+- **Convertir Footswitch a template**: Adaptar la clase `Footswitch` para que funcione como un template, permitiendo implementar distintos tipos de comportamiento o hardware, por ejemplo, una versión con botones de tipo footswitch en lugar de pulsadores.
+- **Tratar botones y LEDs como array**: Refactorizar el código para manejar los botones y LEDs como arreglos, facilitando la creación de dispositivos con más o menos cantidad de botones y LEDs sin cambios significativos en el código base.
+
+## Known Issues
+
+- **LED 2 parpadea una sola vez al cambiar de modo**: Al cambiar entre modos, el LED 2 debería parpadear repetidamente, pero actualmente solo parpadea una vez. Este comportamiento inesperado aún no ha sido resuelto.
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Siéntete libre de hacer un fork de este proyecto, enviar un pull request o abrir issues para cualquier mejora o problema que encuentres.
