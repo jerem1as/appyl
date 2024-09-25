@@ -1,4 +1,6 @@
-# APPYL (Aparato para pisar y leer)
+# Pedal para Pasar Partituras con ESP32
 
-[Leer en español](README_es.md)  
-[Read in English](README_en.md)
+🌍 **Select your language / Selecciona tu idioma**:
+
+🇪🇸 [Español](README_es.md)  
+🇬🇧 [English](README_en.md)
